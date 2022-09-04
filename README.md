@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# wordKeeper
-=======
 # WordKeeper
 
 ## Build Setup
